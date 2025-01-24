@@ -30,10 +30,3 @@ The card includes a brief introduction, contact information, and interests.
    ```bash
    npm start
    ```
-
-### License
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize it further to suit your needs! If you need any more help or run into any issues, feel free to ask!

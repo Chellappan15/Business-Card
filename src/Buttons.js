@@ -3,9 +3,9 @@ import React from "react";
 export default function MailButton() {
   return (
     <button className="Mail-Button">
-      <a href="mailto:chellappan@135@gmail.com">
+      <a href="mailto:chellappan135@gmail.com">
         <div className="MailEnclose">
-          <img src="Mail.png" alt="Mail"/>
+          <img src="Mail.png" alt="Mail" />
           <p>Email</p>
         </div>
       </a>

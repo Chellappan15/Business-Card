@@ -33,6 +33,7 @@ body{
     align-items: center;
     flex-direction: column;
     width: 350px;
+    height: 350px;
 }
 
 .image
@@ -81,8 +82,7 @@ body{
     border-radius: 0 0 20px 20px;
     height: 56px;
     margin-top: 10px;
-    width: 425px;
-    background-color: #161619;
+    width: 350px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -143,7 +143,7 @@ body{
 @media (max-width: 768px) {
     .fullContent {
         width: 350px;
-        height: 700px;
+        height: 740px;
     }
 
     .Main {
@@ -212,5 +212,11 @@ body{
 
     .Mail-Button a p {
         font-size: 16px;
+    }
+
+    .MailEnclose{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
     }
 }
